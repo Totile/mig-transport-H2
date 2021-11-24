@@ -1,0 +1,351 @@
+****master
+***geometry
+ **point point0
+  *position 0.000000000000000e+00 0.000000000000000e+00 0.000000000000000e+00
+ **point point1
+  *position 8.000000000000000e+00 0.000000000000000e+00 0.000000000000000e+00
+ **point point2
+  *position 0.000000000000000e+00 5.000000000000000e+01 0.000000000000000e+00
+ **point point6
+  *position 0.000000000000000e+00 5.500000000000000e+01 0.000000000000000e+00
+ **point point7
+  *position 5.000000000000000e+00 5.500000000000000e+01 0.000000000000000e+00
+ **point point9
+  *position 5.000000000000000e+00 7.000000000000000e+01 0.000000000000000e+00
+ **point point10
+  *position 5.000000000000000e+00 6.550000000000000e+01 0.000000000000000e+00
+ **point point12
+  *position 5.500000000000000e+00 6.550000000000000e+01 0.000000000000000e+00
+ **point point13
+  *position 5.500000000000000e+00 6.500000000000000e+01 0.000000000000000e+00
+ **point point14
+  *position 6.000000000000000e+00 6.500000000000000e+01 0.000000000000000e+00
+ **point object0
+  *position 5.000000000000000e+00 6.500000000000000e+01 0.000000000000000e+00
+ **point object1
+  *position 5.500000000000000e+00 6.450000000000000e+01 0.000000000000000e+00
+ **point point18
+  *position 5.000000000000000e+00 6.450000000000000e+01 0.000000000000000e+00
+ **point point5
+  *position 8.000000000000000e+00 1.000000000000000e+02 0.000000000000000e+00
+ **point point16
+  *position 8.000000008555713e+00 7.000000000000000e+01 0.000000000000000e+00
+ **point point19
+  *position 2.499999997307760e+00 5.066987297952344e+01 0.000000000000000e+00
+ **point point20
+  *position 4.330127018145012e+00 5.249999999865388e+01 0.000000000000000e+00
+ **point point22
+  *position 8.000000005703807e+00 4.666666666666666e+01 0.000000000000000e+00
+ **point point23
+  *position 8.000000006654442e+00 5.444444444444444e+01 0.000000000000000e+00
+ **point point24
+  *position 8.000000007605077e+00 6.222222222222222e+01 0.000000000000000e+00
+ **point point25
+  *position 8.000000007921956e+00 6.481481481481482e+01 0.000000000000000e+00
+ **point point26
+  *position 8.000000008238834e+00 6.740740740740740e+01 0.000000000000000e+00
+ **point point30
+  *position 5.000000000000000e+00 5.975000000000000e+01 0.000000000000000e+00
+ **point point31
+  *position 5.000000000000000e+00 6.775000000000000e+01 0.000000000000000e+00
+ **point point8
+  *position 8.000000004990831e+00 4.083333333333333e+01 0.000000000000000e+00
+ **point point11
+  *position 0.000000000000000e+00 4.375000000000000e+01 0.000000000000000e+00
+ **line line0
+  *p1 point0
+  *p2 point1
+  *cuts 10
+ **line line1
+  *p1 point0
+  *p2 point1
+ **line edge2
+  *p1 point7
+  *p2 point7
+ **line edge6
+  *p1 point7
+  *p2 point7
+ **line edge8
+  *p1 point7
+  *p2 point7
+ **line edge14
+  *p1 point7
+  *p2 point7
+ **line edge16
+  *p1 point7
+  *p2 point7
+ **line edge20
+  *p1 point7
+  *p2 point7
+ **line edge26
+  *p1 point7
+  *p2 point7
+ **line line20
+  *p1 point10
+  *p2 point12
+  *cuts 10
+ **line line22
+  *p1 point13
+  *p2 point13
+ **line line23
+  *p1 point13
+  *p2 point13
+ **line line24
+  *p1 point13
+  *p2 point13
+ **line line25
+  *p1 point13
+  *p2 point13
+ **line line26
+  *p1 point13
+  *p2 point13
+ **line line30
+  *p1 point18
+  *p2 point18
+ **line line31
+  *p1 point7
+  *p2 point7
+ **line line3
+  *p1 object1
+  *p2 object1
+ **line line27
+  *p1 object1
+  *p2 object1
+ **line line28
+  *p1 object1
+  *p2 object1
+ **line line29
+  *p1 object1
+  *p2 object1
+ **line edge1
+  *p1 object1
+  *p2 point18
+  *cuts 10
+ **line line37
+  *p1 point9
+  *p2 point16
+  *cuts 10
+ **line line39
+  *p1 point20
+  *p2 point22
+  *cuts 10
+ **line edge920
+  *p1 point22
+  *p2 point23
+  *cuts 10
+ **line line40
+  *p1 point7
+  *p2 point23
+  *cuts 10
+ **line line41
+  *p1 object1
+  *p2 point24
+  *cuts 10
+ **line edge9220
+  *p1 point24
+  *p2 point25
+  *cuts 10
+ **line edge9221
+  *p1 point25
+  *p2 point26
+  *cuts 10
+ **line line43
+  *p1 point12
+  *p2 point26
+  *cuts 10
+ **line edge30
+  *p1 point7
+  *p2 point30
+  *cuts 10
+ **line edge31
+  *p1 point30
+  *p2 point18
+  *cuts 10
+ **line line47
+  *p1 point30
+  *p2 point24
+  *cuts 10
+ **line line48
+  *p1 point26
+  *p2 point16
+  *cuts 10
+ **line line49
+  *p1 point23
+  *p2 point24
+  *cuts 10
+ **line line51
+  *p1 point25
+  *p2 point14
+  *cuts 10
+ **line line500
+  *p1 point10
+  *p2 point31
+  *cuts 10
+ **line line501
+  *p1 point31
+  *p2 point9
+  *cuts 10
+ **line line52
+  *p1 point26
+  *p2 point31
+  *cuts 10
+ **line edge913
+  *p1 point8
+  *p2 point22
+  *cuts 10
+ **line line2
+  *p1 point8
+  *p2 point8
+ **line line4
+  *p1 point8
+  *p2 point1
+  *cuts 20
+ **line line5300
+  *p1 point2
+  *p2 point11
+  *cuts 10
+ **line line5
+  *p1 point0
+  *p2 point11
+  *cuts 20
+ **line line6
+  *p1 point11
+  *p2 point8
+  *cuts 10
+ **line line7
+  *p1 point19
+  *p2 point8
+  *cuts 10
+ **arc edge0
+  *p1 point7
+  *p2 point7
+  *center point6
+  *data   5.000000000000000e+00 0.000000000000000e+00 4.189172030040637e-05
+ **arc edge4
+  *p1 point7
+  *p2 point7
+  *center point6
+  *data   5.000000000000000e+00 0.000000000000000e+00 4.189172030040637e-05
+ **arc edge18
+  *p1 point7
+  *p2 point7
+  *center point6
+  *data   5.000000000000000e+00 -4.148324143474570e-05 -2.359495985996011e-05
+ **arc edge22
+  *p1 point7
+  *p2 point7
+  *center point6
+  *data   5.000000000000000e+00 -2.359495985996011e-05 3.312936676625935e-05
+ **arc arc30
+  *p1 point14
+  *p2 point12
+  *cuts 10
+  *center point13
+  *data   5.000000000000000e-01 0.000000000000000e+00 1.570796326794897e+00
+ **arc arc33
+  *p1 object1
+  *p2 point14
+  *cuts 10
+  *center point13
+  *data   5.000000000000000e-01 4.712388980384690e+00 6.283185307179586e+00
+ **arc edge290
+  *p1 point2
+  *p2 point19
+  *cuts 10
+  *center point6
+  *data   5.000000000000000e+00 4.712388979452069e+00 5.235987755361242e+00
+ **arc edge291
+  *p1 point19
+  *p2 point20
+  *cuts 10
+  *center point6
+  *data   5.000000000000000e+00 5.235987755361242e+00 5.759586531270414e+00
+ **arc edge292
+  *p1 point20
+  *p2 point7
+  *cuts 10
+  *center point6
+  *data   5.000000000000000e+00 5.759586531270414e+00 6.283185307179586e+00
+ **domain domain1 Ruled14
+  *name R
+  *element c2d8
+  *method 1
+  *b1 line20 
+  *b2 line500 
+  *b3 line52 
+  *b4 line43 
+ **domain domain1 Ruled15
+  *name R
+  *element c2d8
+  *method 1
+  *b1 arc30 
+  *b2 line43 
+  *b3 edge9221 
+  *b4 line51 
+ **domain domain1 Ruled16
+  *name R
+  *element c2d8
+  *method 1
+  *b1 arc33 
+  *b2 line51 
+  *b3 edge9220 
+  *b4 line41 
+ **domain domain1 Ruled17
+  *name R
+  *element c2d8
+  *method 1
+  *b1 edge1 
+  *b2 edge31 
+  *b3 line47 
+  *b4 line41 
+ **domain domain1 Ruled18
+  *name R
+  *element c2d8
+  *method 1
+  *b1 line47 
+  *b2 line49 
+  *b3 line40 
+  *b4 edge30 
+ **domain domain1 Ruled0
+  *name R
+  *element c2d8
+  *method 1
+  *b1 edge292 
+  *b2 line40 
+  *b3 edge920 
+  *b4 line39 
+ **domain domain1 Ruled2
+  *name R
+  *element c2d8
+  *method 1
+  *b1 edge291 
+  *b2 line39 
+  *b3 edge913 
+  *b4 line7 
+ **domain domain1 Ruled3
+  *name R
+  *element c2d8
+  *method 1
+  *b1 edge290 
+  *b2 line7 
+  *b3 line6 
+  *b4 line5300 
+ **domain domain1 Ruled4
+  *name R
+  *element c2d8
+  *method 1
+  *b1 line6 
+  *b2 line4 
+  *b3 line0 
+  *b4 line5 
+ **domain domain1 Ruled1
+  *name R
+  *element c2d8
+  *method 1
+  *b1 line501 
+  *b2 line37 
+  *b3 line48 
+  *b4 line52 
+***plotting
+  **default_options 1 0 1
+****return

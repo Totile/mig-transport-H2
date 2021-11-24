@@ -1,0 +1,14 @@
+***behavior gen_evp
+ **elasticity isotropic
+  young 200000.
+  poisson 0.3
+  **potential gen_evp ep
+   *criterion mises
+   *flow plasticity
+   *isotropic nonlinear_double
+    R0 400.
+    Q1 200.
+    b1 30.
+    Q2 300.
+    b2 4.
+***return

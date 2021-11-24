@@ -1,0 +1,14 @@
+****mesher
+    ***mesh eprouvette_with_mesh.geof
+        **open eprouvette.geof
+
+        **nset x1
+            *function x>7.99; 
+            %on veillera à ne pas oublier le ;
+
+        **nset y0
+            *function y<0.1;
+        
+        **nset y1
+            *function y>69.9;
+****return

@@ -1,0 +1,25 @@
+****calcul
+ ***mesh plane_strain
+  % Mesh file and formulation
+  **file eprouvette_with_mesh.geof 
+
+ ***resolution
+  % Time discretisation 
+  % One increment only (elastic)
+  **sequence
+   *time 1.
+   *increment 1
+   *ratio 1.e-2
+
+ ***bc
+  % Boundary conditions
+  **impose_nodal_dof
+    x1 U1 0.
+    y1 U2 0.
+    y0 U2 -1. time
+
+ ***material
+  % Material's behavior
+  **elset ALL_ELEMENT
+   *file elastic.mat
+****return
